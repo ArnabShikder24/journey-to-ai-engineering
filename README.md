@@ -47,3 +47,17 @@ The repository is organized by learning phase and project topic. Each project fo
 ## Progress
 
 This is a work in progress. The code and documentation will evolve as I learn, experiment, and build more capable AI systems.
+
+# Week 1: AI Engineer Core
+
+## ✅ Setup and environment
+## ✅ API connection
+## ✅ Groq/google/OpenAI-compatible API usage
+## ✅ Prompt engineering
+## ✅ Chat completion
+## ✅ Structured output
+## ✅ Tokenization and embeddings
+## ✅ Streaming responses
+
+## ✅ Important learning
+These are the meaningful Week 1 topics. They are useful because they show the real foundation of AI app building: setup, API access, prompt design, streaming, and interactive output.
