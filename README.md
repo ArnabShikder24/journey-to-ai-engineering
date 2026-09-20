@@ -48,7 +48,7 @@ The repository is organized by learning phase and project topic. Each project fo
 
 This is a work in progress. The code and documentation will evolve as I learn, experiment, and build more capable AI systems.
 
-# Week 1: AI Engineer Core
+# 1: AI Engineer Core
 
 ## ✅ Setup and environment
 ## ✅ API connection
