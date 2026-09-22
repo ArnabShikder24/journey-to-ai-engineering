@@ -61,3 +61,7 @@ This is a work in progress. The code and documentation will evolve as I learn, e
 
 ## ✅ Important learning
 These are the meaningful Week 1 topics. They are useful because they show the real foundation of AI app building: setup, API access, prompt design, streaming, and interactive output.
+
+# 2: Multimodal AI
+
+
