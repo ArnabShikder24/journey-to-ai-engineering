@@ -64,4 +64,6 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 
 # 2: Multimodal AI
 
-
+## ✅ Multimodal
+## ✅ langchain_openai
+## ✅ prompt Caching
