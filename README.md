@@ -68,3 +68,8 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 ## ✅ langchain_openai
 ## ✅ prompt Caching
 ## ✅ Converstaion between LLMs
+
+# 3: Gradio
+
+## ✅ Gradio Interface and its Components
+## ✅ use Gradio with LLMs input output
