@@ -74,3 +74,7 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 ## ✅ Gradio Interface and its Components
 ## ✅ use Gradio with LLMs input output
 ## ✅ use Gradio with LLMs streaming output
+
+# 4: Steaming Chatbot with Gradio
+
+## ✅ Chatbot
