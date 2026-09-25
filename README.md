@@ -81,5 +81,3 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 ## ✅ One shot prompting
 ## ✅ first look at RAG
 ## ✅ dynamicly change system prompt based of user input
-
-```
