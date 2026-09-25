@@ -81,9 +81,5 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 ## ✅ One shot prompting
 ## ✅ first look at RAG
 ## ✅ dynamicly change system prompt based of user input
-for example if user say I want belt and if we don't sell belt then we can do like this.
 
-```
-if 'belt' in message.lower():
-  system_message += " The store does not sell belts, if you are asked for belts, be sure to point out other item on sale."
 ```
