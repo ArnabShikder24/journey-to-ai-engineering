@@ -86,3 +86,4 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 
 ## ✅ Tool calling
 ## ✅ handle multi-tool call
+## ✅ tool calling with SQL database
