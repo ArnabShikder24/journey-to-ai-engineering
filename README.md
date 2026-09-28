@@ -91,3 +91,4 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 # 5: Agentic AI
 
 ## ✅ Multi model assistant
+## ✅ generate svg with LLMs
