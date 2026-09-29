@@ -92,3 +92,8 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 
 ## ✅ Multi model assistant
 ## ✅ generate svg with LLMs
+
+# 6: Hugging Face
+
+## ✅ Hugging Face hub
+## ✅ Hugging Face Pipelines/Tokenizer and models
