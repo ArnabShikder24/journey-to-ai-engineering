@@ -6,3 +6,7 @@ https://huggingface.co/docs/transformers/main_classes/pipelines
 
 DiffusionPipeline:
 https://huggingface.co/docs/diffusers/en/api/pipelines/overview
+
+
+Tokenizer:
+https://colab.research.google.com/drive/1Kq4g-lsLjHtOuHgeS7rkH2RBgz4Ij2hV?usp=sharing
