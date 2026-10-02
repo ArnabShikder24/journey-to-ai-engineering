@@ -97,3 +97,4 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 
 ## ✅ Hugging Face hub
 ## ✅ Hugging Face Pipelines/Tokenizer and models
+## ✅ Token Prediction visiualization
