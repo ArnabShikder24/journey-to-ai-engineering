@@ -88,13 +88,17 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 ## ✅ handle multi-tool call
 ## ✅ tool calling with SQL database
 
-# 5: Agentic AI
+# 6: Agentic AI
 
 ## ✅ Multi model assistant
 ## ✅ generate svg with LLMs
 
-# 6: Hugging Face
+# 7: Hugging Face
 
 ## ✅ Hugging Face hub
 ## ✅ Hugging Face Pipelines/Tokenizer and models
 ## ✅ Token Prediction visiualization
+
+# 8: llm showdown
+
+## ✅ Code Generator
