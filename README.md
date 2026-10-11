@@ -102,3 +102,10 @@ These are the meaningful Week 1 topics. They are useful because they show the re
 # 8: llm showdown
 
 ## ✅ Code Generator
+
+# 9: RAG
+
+## ✅ RAG with LangChain
+## ✅ Chunking and Embeddings
+## ✅ Vector Database with Chroma
+## ✅ EVAL with LLM-as-judge
