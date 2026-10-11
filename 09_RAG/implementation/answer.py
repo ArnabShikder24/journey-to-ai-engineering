@@ -28,7 +28,7 @@ Context:
 """
 
 vectorstore = Chroma(persist_directory=DB_NAME, embedding_function=embeddings)
-retriever = vectorstore.as_retriever()
+retriever = vectorstore.as_retriever(search_kwargs={"k": RETRIEVAL_K})
 llm = ChatOpenAI(temperature=0, model_name=MODEL, api_key=os.getenv("GROQ_API_KEY"), base_url="https://api.groq.com/openai/v1")
 
 
@@ -36,7 +36,7 @@ def fetch_context(question: str) -> list[Document]:
     """
     Retrieve relevant context documents for a question.
     """
-    return retriever.invoke(question, k=RETRIEVAL_K)
+    return retriever.invoke(question)
 
 
 def combined_question(question: str, history: list[dict] = []) -> str:

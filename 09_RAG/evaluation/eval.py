@@ -28,9 +28,6 @@ class RetrievalEval(BaseModel):
 class AnswerEval(BaseModel):
     """LLM-as-a-judge evaluation of answer quality."""
 
-    feedback: str = Field(
-        description="Concise feedback on the answer quality, comparing it to the reference answer and evaluating based on the retrieved context"
-    )
     accuracy: float = Field(
         description="How factually correct is the answer compared to the reference answer? 1 (wrong. any wrong answer must score 1) to 5 (ideal - perfectly accurate). An acceptable answer would score 3."
     )
@@ -39,6 +36,9 @@ class AnswerEval(BaseModel):
     )
     relevance: float = Field(
         description="How relevant is the answer to the specific question asked? 1 (very poor - off-topic) to 5 (ideal - directly addresses question and gives no additional information). Only answer 5 if the answer is completely relevant to the question and gives no additional information."
+    )
+    feedback: str = Field(
+        description="Feedback in 2 sentences maximum. Do not include scores or reasoning steps here."
     )
 
 
